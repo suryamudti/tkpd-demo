@@ -1,1 +1,1 @@
-# Learning deployment with Docker and Scale
+# Learning deploy with Docker and Scale
